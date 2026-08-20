@@ -93,6 +93,16 @@ A base probatória fundamenta-se na observação longitudinal de condutas públi
 2. **Refutação do Eneátipo 3 (Realizador) como Núcleo Primário:** Embora possua alta orientação para resultados, o núcleo motivacional de Muzy não reside na adaptação plástica de sua imagem para obter validação (Tipo 3), mas na adesão inegociável ao que considera ético, técnico e correto segundo seu rígido código moral (Tipo 1). O Tipo 3 atua como componente secundário em seu Tritype.
 3. **Refutação do Eneátipo 8 (Desafiador):** O sujeito não busca poder pela quebra de regras ou confronto visceral direto com a ordem; sua agressividade é sempre mediada pela defesa da norma, do decoro e da autoridade institucional estabelecida.
 
+### Tritype: 136
+
+O Tritype 136, conhecido como o "Executor" (The Taskmaster), caracteriza-se por uma combinação única de diligência, ambição e uma natureza inquisitiva. Indivíduos com esse perfil são descritos como altamente industriosos, éticos, eficientes e profundamente dedicados ao dever. Essa é considerada uma das configurações mais produtivas do Eneagrama, uma vez que o tipo um foca em fazer o que é correto, o tipo três busca realizar tudo com excelência e o tipo seis age de maneira diligente e responsável.
+
+Essa personalidade enfrenta dificuldades para relaxar, sentindo uma necessidade quase constante de manter-se ocupada, muitas vezes realizando tarefas mesmo que não sejam significativas ou importantes para si, apenas para suprir o desejo de produtividade. Regras e normas sociais são fundamentais para esses indivíduos, que possuem um forte desejo de saber como o mundo funciona e qual é o papel de cada um. Quando adotam um subtipo social, tornam-se pessoas extremamente organizadas e proficientes, embora por vezes operem no "piloto automático", focando na execução em detrimento da reflexão sobre o propósito real de suas ações.
+
+O motor principal do Tritype 136 não é necessariamente o desejo de ser querido pelos outros, mas sim a necessidade de prestígio, sucesso e a validação através de conquistas concretas. O medo central é que, ao parar de se ocupar, eles alcancem um vazio interno que parece insuportável. Por evitarem entrar em contato com sentimentos mais profundos — que temem ser avassaladores ou paralisantes — eles tendem a adotar uma postura de desempenho constante, perdendo, em certos momentos, o contato com seus próprios valores e necessidades autênticas.
+
+O propósito de vida deste Tritype reside na capacidade de focar em detalhes e identificar o que precisa ser feito para atender às demandas externas. Contudo, seu ponto cego é a tendência a se tornar excessivamente rígido ou "robótico". Para viver uma vida mais consciente, o desafio desses indivíduos é aprender a confiar em sua própria sabedoria emocional, permitindo-se sentir e questionar o "porquê" por trás de suas realizações, buscando uma definição de sucesso que esteja alinhada aos seus valores pessoais, e não apenas às expectativas impostas pela sociedade.
+
 ---
 
 ### FASE 4: RELATÓRIO PSICOMÉTRICO CONSOLIDADO
