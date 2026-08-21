@@ -1,4 +1,3 @@
-
 ---
 # metadata:  
 document_type: "diary_llm_context"  
