@@ -1,0 +1,9 @@
+- [[Imaginário Radical e Autonomia - Cornelius Castoriadis]].
+- [[Semiótica da Cultura e Semiosfera - Juri Lotman / Escola de Tartu-Moscou]].
+- [[Filosofia das Imagens Técnicas e Cibernética - Vilém Flusser]].
+- [[Método Fenomenológico-Dialético T.E.A. (Thaumázein, Epoché, Aufhebung)]].
+- [[Crítica da Técnica e Filosofia Existencial - Martin Heidegger & Friedrich Nietzsche]].
+- [[Filosofia das Mídias e Processos Audiovisuais - ECA-USP]].
+- [[Ética Prática e Tomada de Decisão em Ambientes Tecnológicos]].
+- [[Ontologia da Informação e Crítica à Consciência Artificial]].
+- [[Antropologia Semiótica e Modelagem de Mundo (Umwelt)]].
