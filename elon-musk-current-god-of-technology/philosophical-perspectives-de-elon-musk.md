@@ -1,0 +1,7 @@
+- [[Fisicalismo-Reducionista]].
+- [[Psico-historia-Asimoviana]].
+- [[Tecno-otimismo-Longtermista]].
+- [[Pragmatismo-Industrial]].
+- [[Vontade-de-Potencia-Nietzscheana]].
+- [[Absurdismo-Cosmico-Douglas-Adams]].
+- [[Utilitarismo-Existencial]].
