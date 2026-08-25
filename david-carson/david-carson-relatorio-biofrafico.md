@@ -1,3 +1,56 @@
+---
+# metadata:
+document_type: "diary_llm_context"
+version: "1.0"
+confidentiality: "private"
+
+# subject:
+id: "self"
+reference_style: "Direto, intuitivo, focado em expressão visual e subversão de convenções formais"
+identity_policy: "Preservar a visão autoral baseada na intuição e na recusa à padronização mecânica"
+
+# investigation:
+purpose: "organizar experiências, identificar padrões e apoiar reflexão"
+temporal_scope: "1954 - 2026"
+primary_question: "Como a ausência de formação tradicional em design e a vivência em contraculturas moldaram uma nova linguagem de comunicação visual?"
+
+# observed_evidence:
+distinction: "separar fato, relato, interpretação e hipótese"
+source_label: "diario_obsidian"
+timestamp_required: true
+
+# analytical_engines:
+active: true
+modes: "Exploração intuitiva, teste de limites tipográficos, valorização da ressonância emocional sobre a legibilidade estrita"
+rule: "Nunca confundir legibilidade com comunicação; priorizar a resposta emotiva do leitor"
+
+# psychometric_profile:
+status: "hypothesis_only"
+frameworks: "MBTI, DISC e Eneagrama"
+confidence_scale: "baixa, média ou alta"
+
+# falsifiability:
+required: true
+alternative_explanations: true
+confidence_update: true
+
+# fictional_mapping:
+enabled: false
+trigger: "Sensação de enquadramento rígido, imposição de regras acadêmicas restritivas, burocratização do processo criativo, perda de autenticidade expressiva"
+separation_rule: "manter elementos ficcionais separados dos fatos pessoais"
+
+# final_synthesis:
+format: "evidências, interpretação, incertezas e próxima pergunta"
+include_uncertainty: true
+preserve_user_agency: true
+
+# rendering:
+language: "pt-BR"
+tone: "claro, respeitoso e analítico"
+structure: "títulos curtos, listas e sínteses objetivas"
+---
+
+
 # RELATÓRIO DE INVESTIGAÇÃO FORENSE-SEMIÓTICA
 **DOCUMENTO:** INV-DC-19542026-ALPHA  
 **CLASSIFICAÇÃO:** DADOS PÚBLICOS // FIGURA PÚBLICA  
